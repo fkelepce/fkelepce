@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me via my e-mail: fkelepce34@gmail.com
+- 📫 You can reach me via my e-mail: fkelepce34@gmail.com
 
 <!---
 fkelepce/fkelepce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
