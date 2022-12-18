@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fkelepce
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Fullstack Development
+- 🌱 I’m currently learning Fullstack Web Development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can reach me via my e-mail: fkelepce34@gmail.com
 
